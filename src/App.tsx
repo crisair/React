@@ -10,7 +10,7 @@ function App() {
                 <p>
                     Cristian Ibarra
                 </p>
-                <p> isabel renteria </p>
+                <p> isabel renteria   </p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
