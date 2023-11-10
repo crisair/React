@@ -11,6 +11,10 @@ function App() {
                     Cristian Ibarra
                 </p>
                 <p> isabel renteria  mai </p>
+=======
+                <p>
+                    Kevin Sepulveda
+                </p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
