@@ -13,8 +13,9 @@ function App() {
                 <p>
                     Kevin Sepulveda
                 </p>
+
                 <p>
-                    isabel ren 
+                    isabel 2.0
                 </p>
                 <a
                     className="App-link"
