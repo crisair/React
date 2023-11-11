@@ -15,7 +15,7 @@ function App() {
                 </p>
 
                 <p>
-                    isabel 2.0
+                    isabel 3.0 
                 </p>
                 <a
                     className="App-link"
